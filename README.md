@@ -45,7 +45,7 @@ site-8-calculator/
 
 > ⚠️ Make sure `preview.png` is uploaded in the same folder
 
-![Calculator Preview](preview.png)
+![Calculator Preview](preview8.png)
 
 ---
 
